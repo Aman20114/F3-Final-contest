@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #000000;
+  
+}
+
+.container {
+  border: 2px solid rgb(48, 40, 40);
+  margin: 2vw;
+  padding: 2vw;
+}
+.head {
+  background-color: black;
+  color: white;
+}
+.head p {
+  margin: 5px 0;
+  font-size: 20px;
+}
+
+.history ul li {
+  list-style: none;
+}
+
+.form {
+  background-color: rgb(103, 131, 122);
+  font-size: 20px;
+}
+.form button {
+  padding: 2px 10px;
+  font-size: 15px;
+  border: 1px solid black;
+  background: #5b4f5f;
+  color: white;
+  border-radius: 10px;
+  margin: 0 20px;
+  cursor: pointer;
+}
+
+.history {
+  background-color: #dc7b5d;
+  font-size: 20px;
+}
